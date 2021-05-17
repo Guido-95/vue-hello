@@ -8,7 +8,8 @@ var app = new Vue(
     {
         el: "#root",
         data:{
-            message:"Messaggio Esercitazione",
+          
+            messaggio:"Messaggio Esercitazione",
             immagine:"https://siviaggia.it/wp-content/uploads/sites/2/2017/03/paesaggio-alpi-think-1217.jpg"
         }
     }
